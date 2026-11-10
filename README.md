@@ -16,17 +16,7 @@ EcoPower 注重环境友好型的可再生能源。
 
 ## 下载 EcoPower
 
-你可以在这里下载EcoPower: [下载EcoPower](https://builds.guizhanss.net/ybw0014/EcoPower-CN/master)
-
-<p align="center">
-  <a href="https://github.com/ybw0014/EcoPower-CN/actions/workflows/maven.yml">
-    <img src="https://github.com/ybw0014/EcoPower-CN/actions/workflows/maven.yml/badge.svg" alt="Java CI"/>
-  </a>
-
-  <a href="https://builds.guizhanss.net/ybw0014/EcoPower-CN/master">
-    <img src="https://builds.guizhanss.net/f/ybw0014/EcoPower-CN/master/badge.svg" alt="Build status"/>
-  </a>
-</p>
+[下载 EcoPower](https://resources.guizhanss.com/plugin/EcoPower)
 
 ## Discord
 
